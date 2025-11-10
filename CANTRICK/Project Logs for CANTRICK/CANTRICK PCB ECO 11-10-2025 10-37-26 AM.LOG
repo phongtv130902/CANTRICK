@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=NetC2_2 New Net Name=VIN
+Change Net Name : Old Net Name=NetC10_2 New Net Name=BP
+Change Net Name : Old Net Name=NetC11_1 New Net Name=SW
+Change Net Name : Old Net Name=NetC12_2 New Net Name=COMP
+Change Net Name : Old Net Name=NetC13_1 New Net Name=FB
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=HDRV
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=LDRV
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *3 Hole M3

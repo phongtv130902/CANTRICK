@@ -1,0 +1,13 @@
+Change Component Description : Designator=J2 Old Description=CAN controller w/ SPI interface, 125 deg C18 SOIC .300in T/R New Description=CAN controller w/ SPI interface, 125 deg C18 SOIC .300in T/R | Microchip Technology Inc. MCP2515T-E/SO
+Change Component Description : Designator=J6 Old Description=CAN controller w/ SPI interface, 125 deg C18 SOIC .300in T/R New Description=CAN controller w/ SPI interface, 125 deg C18 SOIC .300in T/R | Microchip Technology Inc. MCP2515T-E/SO
+Change Component Description : Designator=L1 Old Description=High Current Toroidal Inductor New Description=High Current Toroidal Inductor | 10 uH
+Change Component Description : Designator=Q1 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Change Component Description : Designator=Q2 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Added Component: Designator=*1(M3)
+Added Component: Designator=*2(M3)
+Added Component: Designator=*3(M3)
+Added Component: Designator=*4(M3)
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *1 Hole M3
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *2 Hole M3
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *3 Hole M3
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *4 Hole M3

@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=+5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Member From Class: ClassName=U_CANTRICK POWER Member=C1
+Removed Member From Class: ClassName=U_CANTRICK POWER Member=C7
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Designator: OldDesignator= NewDesignator=*2
+Change Component Designator: OldDesignator= NewDesignator=*3
+Change Component Designator: OldDesignator= NewDesignator=*4
+Added Component: Designator=C38(CAPPRD750W80D1600H3150)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUFC1V222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C39(CAPPRD750W80D1600H3150)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUFC1V222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C40(CAPPRD750W80D1600H3150)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUFC1V222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C41(CAPPRD750W80D1600H3150)
+Add component (AddParameter): Name = "Availability"; Value = "No availability data"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEUFC1V222"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEUFC1V222/Panasonic/view-part/5783312/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C38-N
+Added Pin To Net: NetName=NetC1_1 Pin=C38-P
+Added Pin To Net: NetName=GND Pin=C39-N
+Added Pin To Net: NetName=NetC1_1 Pin=C39-P
+Added Pin To Net: NetName=GND Pin=C40-N
+Added Pin To Net: NetName=+5V Pin=C40-P
+Added Pin To Net: NetName=GND Pin=C41-N
+Added Pin To Net: NetName=+5V Pin=C41-P
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_2
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *1 Hole M3
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *2 Hole M3
+Added Member To Class: ClassName=U_CANTRICK PERIPHERAL Member=Component *4 Hole M3
+Added Member To Class: ClassName=U_CANTRICK POWER Member=Component C38 EEUFC1V222
+Added Member To Class: ClassName=U_CANTRICK POWER Member=Component C39 EEUFC1V222
+Added Member To Class: ClassName=U_CANTRICK POWER Member=Component C40 EEUFC1V222
+Added Member To Class: ClassName=U_CANTRICK POWER Member=Component C41 EEUFC1V222
+Added Room: Name=U_CANTRICK MCU
+Added Room: Name=U_CANTRICK PERIPHERAL
+Added Room: Name=U_CANTRICK POWER
