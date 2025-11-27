@@ -1,0 +1,554 @@
+*************************************************************
+FileName = CANTRICK.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 20
+      File : CANTRICK.GM20
+
+    Adding Layer      : Mechanical 20
+
+
+Used DCodes :
+    D13
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : CANTRICK.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D114
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : CANTRICK.GM14
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+    D13
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : CANTRICK.GM13
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D15
+    D16
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom Value
+      File : CANTRICK.GM12
+
+    Adding Layer      : Bottom Value
+
+
+Used DCodes :
+    D13
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top Value
+      File : CANTRICK.GM11
+
+    Adding Layer      : Top Value
+
+
+Used DCodes :
+    D13
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : CANTRICK.GM5
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : CANTRICK.GM4
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : CANTRICK.GM3
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : CANTRICK.GM2
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : CANTRICK.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : CANTRICK.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : CANTRICK.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CANTRICK.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D24
+    D31
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : CANTRICK.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D49
+    D56
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CANTRICK.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CANTRICK.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CANTRICK.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : CANTRICK.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D68
+    D87
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : CANTRICK.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D68
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CANTRICK.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D18
+    D24
+    D31
+    D68
+    D88
+    D89
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : CANTRICK.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D24
+    D31
+    D68
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : CANTRICK.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D16
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : CANTRICK.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D16
+*************************************************************
+

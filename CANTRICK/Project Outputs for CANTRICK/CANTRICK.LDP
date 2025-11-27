@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\HLC\Documents\FreelancerJob\CANTRICK\CANTRICK\CANTRICK.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=cantrick-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=cantrick-slotholes.txt|DrillLayers=gtl,gbl
